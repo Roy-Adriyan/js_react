@@ -6,6 +6,7 @@ const FILE_PATH = './data.json';
 asas as  wewewa asapnpm
 sds e
 trenf yuuufcn
+likt
 
 const makeCommit = n => {
     if(n==0)return simpleGit().push();
