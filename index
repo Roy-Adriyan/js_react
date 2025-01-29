@@ -4,6 +4,7 @@ const simpleGit = require('simple-git');
 const random = require('random');
 const FILE_PATH = './data.json';
 asas
+sds
 
 const makeCommit = n => {
     if(n==0)return simpleGit().push();
