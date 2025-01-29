@@ -3,7 +3,7 @@ const moment = require('moment');
 const simpleGit = require('simple-git');
 const random = require('random');
 const FILE_PATH = './data.json';
-asas
+asas asa
 sds e
 
 const makeCommit = n => {
