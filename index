@@ -5,6 +5,7 @@ const random = require('random');
 const FILE_PATH = './data.json';
 asas as  wewewa asapnpm
 sds e
+trenf
 
 const makeCommit = n => {
     if(n==0)return simpleGit().push();
